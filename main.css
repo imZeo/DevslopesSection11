@@ -48,3 +48,16 @@ button.coolButton {
 img.footerImg {
     padding: 20px;
 }
+
+.fa {
+    margin: 10px;
+}
+
+.fa-facebook-square .fa-instagram .fa-twitter-square {
+    color: #3b5998;
+}
+
+.socialWrapper {
+    margin: auto;
+    padding: 2rem;
+}
