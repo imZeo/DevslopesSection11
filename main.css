@@ -44,3 +44,7 @@ button.coolButton {
 .modal p {
     text-align: center;
 }
+
+img.footerImg {
+    padding: 20px;
+}
