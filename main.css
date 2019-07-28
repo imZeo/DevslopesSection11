@@ -38,5 +38,9 @@ button.coolButton {
     margin: auto;
     margin-top: 15px;
     margin-bottom: 20px;
-    width: 50%;
+    width: 60%;
+}
+
+.modal p {
+    text-align: center;
 }
