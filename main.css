@@ -27,3 +27,16 @@ button.coolButton {
 .modalFormWrapper {
     padding: 2rem;
 }
+
+.imgCentre {
+    display: block;
+    margin: auto;
+}
+
+.btnCentre {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 50%;
+}
